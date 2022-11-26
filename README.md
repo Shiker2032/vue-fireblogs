@@ -1,19 +1,11 @@
-# vue-fireblogs
+<h1> Проект: vue-fireblogs </h1>
 
-## Project setup
-```
-npm install
-```
+<h2> О проекте </h2>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<ul>
+  <li> Vue JS </li>
+  <li> VueX </li>
+  <li> Vue Router </li>
+</ul>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p>6 часовой видокурс с YouTube канала traversy media</p>
