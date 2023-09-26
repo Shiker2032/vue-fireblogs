@@ -8,4 +8,4 @@
   <li> Vue Router </li>
 </ul>
 
-<p>6 часовой видоекурс с YouTube канала traversy media</p>
+<p>видоекурс с YouTube канала traversy media</p>
